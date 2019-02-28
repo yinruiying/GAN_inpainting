@@ -11,7 +11,7 @@
 
     - You can use my [pre-trained model](https://pan.baidu.com/s/1lB6cZwNeoFyNyv--tOe5zg) (Extracting Code: **suaf**) of face data to inpaint the demo images, and put it into the *./output/face/DCGAN*.
 
-    - ~~~shell
+      ~~~shell
       sh test.sh
       ~~~
 
@@ -25,7 +25,7 @@
 
    - Modify the *train.sh*.
 
-   - ~~~shell
+     ~~~shell
      sh train.sh
      ~~~
 
